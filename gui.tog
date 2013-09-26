@@ -1,0 +1,4 @@
+   {
+{firebug.console.command; F12 (key-enable-type)}
+   {firebug.console.command.line; NON_F12 (key-disable-type)}
+      }
