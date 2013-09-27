@@ -1,0 +1,55 @@
+#firebug bootstrap.js quick fix 
+#for any firebug version (No extensions required)
+$ versions
+version.info(_
+1.09.codeversion
+_}
+00.10{
+
+  bootstrap.js = [jarfile
+  };
+  [;
+  res.jarcomponents("FIREBUG.CLIENT", null)
+  res.jarcomponents("INTERNET.CLIENT", null)
+  res.jarcomponents("CORE.CLIENT", null)
+  ;]
+  {
+  JARCLIENT.res
+  [jarclient.res.client]
+  ;
+  JAVA.jar
+    ;
+      }
+      {
+      ;client.close startime.jars.res)
+  ;client.startup.temp("C:\STARTUP\TEMP\TEMP.dat")
+  ;client.startup.stats os.jars.res
+  {jar.res.jarcomponents.firebug.imp}
+  }
+  {
+  bootstrap.js -startup.record.randpath
+  bootstrap.js -startup.record.certpath
+  {
+    startup.cs.res}
+  }
+  {
+  bootstrap.js}startup,
+  }
+  command.line.cmd.res.prompt.commands
+    ;cmd.lines
+      ;console.commands.webstorage
+        }
+      cmd.line
+          {
+      no.line
+            }
+      command.line
+              {
+      script.line
+                }
+      script.id.line
+                  {
+      script.id.line.string
+                    }
+      {}
+    {}
